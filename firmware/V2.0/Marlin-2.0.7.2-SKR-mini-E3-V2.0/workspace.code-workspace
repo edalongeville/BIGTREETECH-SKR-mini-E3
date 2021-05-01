@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"extensions": {
+		"recommendations": [
+		  "platformio.platformio-ide",
+		  "ms-python.python",
+		  "ms-vscode.cpptools"
+		]
+	  },
+	"settings": {}
+}
